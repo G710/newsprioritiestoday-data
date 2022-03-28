@@ -1,0 +1,186 @@
+{
+  "datetime": "2022-03-27 19:31:57.837687",
+  "source": {
+    "name": "Tagesschau",
+    "country": "Germany",
+    "directory": "tagesschau",
+    "url": "https://www.tagesschau.de/",
+    "language": "de"
+  },
+  "articles": [
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-donbass-101.html",
+      "headline": "Russia's war in Ukraine's new focus Donbass?",
+      "text": "Russia's early march in Ukraine builds, but in Moscow it is trying for a positive reading: the main goal of the first phase was achieved. Now you want to concentrate on the \"liberation\" of Donbass.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/putin-vorwuerfe-westen-101.html",
+      "headline": "Handling Russian culture Putin throws west Nazi methods",
+      "text": "Russia's President Putin has compared the cancellation of concerts of Russian artists with Nazi methods. Everything Russian is discriminated against in the west. Foreign Minister Lavrov said Europe wool destroy Russia and stroll.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-theater-mariupol-russland-101.html",
+      "headline": "War against Ukraine 300 dead after attack on theater feared",
+      "text": "In the Ukrainian Mariupol, around 300 people could have been killed in the attack on a theater last week. According to authorities, this is apparent from eyewitness reports. In addition, Russia opened a party waste on the outskirts.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-109.html",
+      "headline": "Liveblog",
+      "text": "Ukraine War + \"Z\" can be punishable in Lower Saxony and Bayern + \n Anyone who expresses approval from the \"Z\" symbol of Russia's attacking war, must expect criminal consequences in Lower Saxony. When shelling a clinic in Kharkiv, according to police, there were four dead. The developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/swr/kadyrow-russland-ukraine-101.html",
+      "headline": "Exclusive",
+      "text": "Chechen in Ukraine Kadyrow's Holy War? \n In Ukraine war, Chechen leader Kadyrov wants to steer with combat troops as a useful helper Putin's. Striking is how he plays with Islamic symbolism. But what does he see? From Eric Beres.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/ukraine-gefluechtete-moldau-deutschland-101.html",
+      "headline": "Escape from Ukraine landed first flight from Moldova",
+      "text": "Foreign Minister Baerbock had promised the Republic of Moldova two weeks ago to relieve them with the inclusion of refugees from Ukraine. Now the first evacuation flight was landed at the Frankfurt airport.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/moldau-fluechtlinge-105.html",
+      "headline": "Reportage",
+      "text": "Escape from the Ukraine of Odessa to Chisinau - and back \n Ukrainians can still come from the southern town of Odessa to the neighboring Republic of Moldova. Some bring their children and parents across the border - and then drive back. Of C. Tiekotte.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-133.html",
+      "headline": "Donate help for people in Ukraine",
+      "text": "If you want to donate for people in Ukraine and refuge from Ukraine, you will find aid organizations and bank details here.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/gasspeicher-bundestag-energie-habeck-101.html",
+      "headline": "Order in the Bundestag gas storage should be sufficiently full",
+      "text": "The stables of the gas storage should be re-regulated - the Bundestag decided: Specifically, the relevant operators are to be required to gradually fill them up to 90 percent on 1 November of a year.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/biden-von-der-leyen-103.html",
+      "headline": "LNG for Europe EU and US forging Liquid gas pact",
+      "text": "The EU wants to be independent as soon as possible from Russian gas. Support comes from the US: President Biden has pledged an additional 15 billion cubic meters of LPG for this year. Also in the long term should be delivered more.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/indien-russland-energie-deal-101.html",
+      "headline": "Conversations with the Kremlin Buy India cheap oil from Russia?",
+      "text": "While Western countries are looking for alternatives to Russian oil, India chooses another way. The South Asian State apparently wants to accept a dumping offer from Moscow. From Oliver Mayer.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/dschidda-treibstoffdepot-huthis-101.html",
+      "headline": "Huthi attacks in Saudi Arabia Oll bearings in Jedda stands in flames",
+      "text": "In the Saudi port city of Jidda, a fuel bearing is on fire - presumed for an air raid of the Hutthi rebels. Nearby is the racetrack of Formula 1, on Sunday the Grand Prix is to be driven.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rki-wieler-lauterbach-pandemie-101.html",
+      "headline": "Lauterbach about new infections dark figure is likely to be twice as high",
+      "text": "Health Minister Lauterbach has spoken in the face of the many new infections of \"no good situation\". He even assumes that the number is twice as high as officially reported. He has clear expectations to the federal states.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-freitag-339.html",
+      "headline": "Liveblog",
+      "text": "Coronavirus Pandemic ++ Record in work disability due to Omikron ++ \n The omikron variant leads to a maximum of incapacity for disability and failure. Thailand wants to continue to loosen the peeping lines for twice vaccinated from June. The developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/entlastungspaket-koalition-personennahverkehr-kritik-probahn-103.html",
+      "headline": "Planned relief Transport ministers advocate free ticket",
+      "text": "Countries fear a high level of administrative expenses in the 9-euro monthly ticket for public transport planned by the federal government. Instead, the Ministers of Transport propose a zero ticket ticket.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-parteien-101.html",
+      "headline": "To analyse",
+      "text": "Saarland election The big bangs of the little ones \n In Saarland, CDU and SPD still have the status as a folk parties. The Left Party was strong, but that's over. Also green, FDP and AFD are weak. Why is that? From Diana K\u00fchner-Mert.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/heil-arbeitsmarkt-fluechtlinge-ukraine-krieg-101.html",
+      "headline": "Minister of Labor for War Consequences \"Pension do not play against armor\"",
+      "text": "Ministry of Labor He wants to prevent higher arms expenditure from being borne by the Social State because of the Ukraine war. Pensions would have to remain stable and refugees quickly integrated into the labor market.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/fridays-for-future-klimastreik-101.html",
+      "headline": "Worldwide climate strike Tens of thousands at \"Fridays for Future\" demos",
+      "text": "Worldwide, \"Fridays for Future\" has called for Demos for climate protection. In Germany alone, there are about 300 rallies. The movement demands, among other things, an end to the deliveries of oil, gas and coal from Russia.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/preise-oelmarkt-energie-101.html",
+      "headline": "Continue high fluctuations prices on the oil market give",
+      "text": "Because the EU provisionally dispenses with an embargo and apparently failing the storm damage to a terminal is less dramatic, the fear of bottlenecks in the oil market. That pushes the prices.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzkonzerne-banken-investitionen-klimaschutz-101.html",
+      "headline": "740 billion dollars banks continue investing in fossil energy",
+      "text": "$ 740 billion: So much, according to the largest financial houses of a study, most recently invested in fossil energies. Whether they violate the climate goals or ensure more sustainability is controversial.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/eu-usa-datenschutzabkommen-einigung-101.html",
+      "headline": "Distribution of personal data EU and the USA agree on data protection agreements",
+      "text": "In 2020, the ECJ had tilted an agreement, which deals with the transfer of personal data to corporations such as Facebook. Now the EU and the US have agreed on a new agreement. Details are not yet known.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nationale-sicherheitsstrategie-101.html",
+      "headline": "To analyse",
+      "text": "Germany's foreign policy strategy wanted for more security \n It is still a word sleeve: Germany works on a national security strategy - because of Putin's war against Ukraine faster than planned. But what does that mean? From Kai K\u00fcsstner.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/china--pandemie-impfkampagne-aeltere-101.html",
+      "headline": "Unstopped seniors in China \"It could really go out\"",
+      "text": "No country in the world has gotten more against Covid-19 than China. But given the omikron wave, it could now be aware that seniors could not be prioritized. 52 million elderly are not fully vaccinated. From Benjamin Eyssel.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/mariupol-gefluechtete-101.html",
+      "headline": "Interview",
+      "text": "Freeded from mariupol \"bodies are everywhere in the city\" \n Julia Gulakowa is fled with her three children, her mother and her dog from Mariupol. She describes her last weeks in the trapped city - and how the family managed to escape to Lviw.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-afd-oligarch-101.html",
+      "headline": "Exclusive",
+      "text": "Russia and the AFD influential against Europe \n The contacts of AFD politicians to a cremal oligarch are even more closely known. Documents that are WDR, NDR and SZ also show a close integration of the European rights with the propaganda machine of the oligarch.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/moeblierte-wohnungen-mieten-immobilienmarkt-101.html",
+      "headline": "Rental price brake rip-off with furnished apartments?",
+      "text": "In cities with a short living room, the rental price brake applies. But more and more furnished apartments are offered temporary - at very high prices. A tactic of landlords to remove the rules? From B. Sarikaya, J. K\u00fchlberg and R. Sprotte.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-nasdaq-oelpreis-goldpreis-apple-google-telekom-101.html",
+      "headline": "Market report",
+      "text": "Profit to the weekend Dax saves himself to the plus \n For the weekend, the DAX closes in the plus. Load factors such as energy prices and fear of a sharper US monetary policy, however, ensure that the profit remains minimal.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/sport/sportschau/sportschau-story-54259.html",
+      "headline": "Defeat against Nordmasedonia World Cup again without Italy",
+      "text": "The football World Cup 2022 in Qatar goes on the stage without Italy: The European champion has failed in the playoff semi-finals surprisingly on Nordmasedonia. Portugal and Wales are one round, Sweden must be in the extension against the Czech Republic.",
+      "category": ""
+    },
+    {
+      "link": "https://wetter.tagesschau.de/deutschland/",
+      "headline": "Weather forecast",
+      "text": "On Saturday, in the north and northeast, sometimes density and occasional is somewhat a niesel rule possible. Incidentally, it is sunny or at most slightly cloudy. 9 to 22 degrees.",
+      "category": ""
+    }
+  ]
+}

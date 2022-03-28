@@ -1,0 +1,186 @@
+{
+  "datetime": "2022-03-27 20:51:39.484530",
+  "source": {
+    "name": "Tagesschau",
+    "country": "Germany",
+    "directory": "tagesschau",
+    "url": "https://www.tagesschau.de/",
+    "language": "de"
+  },
+  "articles": [
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-donbass-101.html",
+      "headline": "Russlands Krieg in der Ukraine Neuer Schwerpunkt Donbass?",
+      "text": "Russlands Vormarsch in der Ukraine stockt, doch in Moskau bem\u00fcht man sich um eine positive Lesart: Das Hauptziel der ersten Phase sei erreicht. Nun wolle man sich auf die \"Befreiung\" des Donbass konzentrieren.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/putin-vorwuerfe-westen-101.html",
+      "headline": "Umgang mit russischer Kultur Putin wirft Westen Nazi-Methoden vor",
+      "text": "Russlands Pr\u00e4sident Putin hat die Absage von Konzerten russischer K\u00fcnstler mit Nazi-Methoden verglichen. Alles Russische werde im Westen diskriminiert. Au\u00dfenminister Lawrow sagte, Europa wolle Russland vernichten und erdrosseln.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-theater-mariupol-russland-101.html",
+      "headline": "Krieg gegen die Ukraine 300 Tote nach Angriff auf Theater bef\u00fcrchtet",
+      "text": "Im ukrainischen Mariupol k\u00f6nnten bei dem Angriff auf ein Theater vergangene Woche rund 300 Menschen get\u00f6tet worden sein. Das geht laut Beh\u00f6rden aus Augenzeugenberichten hervor. Zudem habe Russland ein Parteib\u00fcro am Stadtrand er\u00f6ffnet.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-freitag-109.html",
+      "headline": "Liveblog",
+      "text": "Ukraine-Krieg + \"Z\" kann in Niedersachsen und Bayern strafbar sein +\nWer durch das \"Z\"-Symbol Zustimmung zum Angriffskrieg Russlands zum Ausdruck bringt, muss in Niedersachsen mit strafrechtlichen Folgen rechnen. Beim Beschuss einer Klinik in Charkiw gab es laut Polizei vier Tote. Die Entwicklungen im Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/swr/kadyrow-russland-ukraine-101.html",
+      "headline": "Exklusiv",
+      "text": "Tschetschenen in der Ukraine Kadyrows Heiliger Krieg?\nIm Ukraine-Krieg will sich Tschetschenen-F\u00fchrer Kadyrow mit Kampftruppen als n\u00fctzlicher Helfer Putins inszenieren. Auff\u00e4llig ist, wie er mit islamischer Symbolik spielt. Doch was bezweckt er damit? Von Eric Beres.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/ukraine-gefluechtete-moldau-deutschland-101.html",
+      "headline": "Flucht aus der Ukraine Erster Flug aus Moldau gelandet",
+      "text": "Au\u00dfenministerin Baerbock hatte der Republik Moldau vor zwei Wochen versprochen, sie mit der Aufnahme von Gefl\u00fcchteten aus der Ukraine zu entlasten. Nun ist der erste Evakuierungsflug am Frankfurter Flughafen gelandet.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/moldau-fluechtlinge-105.html",
+      "headline": "Reportage",
+      "text": "Flucht aus der Ukraine Von Odessa nach Chisinau - und zur\u00fcck\nNoch k\u00f6nnen Ukrainer von der s\u00fcdlichen Stadt Odessa in die benachbarte Republik Moldau kommen. Manche bringen ihre Kinder und Eltern \u00fcber die Grenze - und fahren dann wieder zur\u00fcck. Von C. Verenkotte.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-133.html",
+      "headline": "Spenden Hilfe f\u00fcr die Menschen in der Ukraine",
+      "text": "Wenn Sie f\u00fcr die Menschen in der Ukraine und Gefl\u00fcchtete aus der Ukraine spenden wollen, finden Sie hier Hilfsorganisationen und Bankverbindungen.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/gasspeicher-bundestag-energie-habeck-101.html",
+      "headline": "Beschluss im Bundestag Gasspeicher sollen ausreichend voll sein",
+      "text": "Die F\u00fcllst\u00e4nde der Gasspeicher sollen neu geregelt werden - das hat der Bundestag beschlossen: Konkret sollen die entsprechenden Betreiber verpflichtet werden, sie schrittweise bis auf 90 Prozent zum 1. November eines Jahres zu f\u00fcllen.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/biden-von-der-leyen-103.html",
+      "headline": "LNG f\u00fcr Europa EU und USA schmieden Fl\u00fcssiggas-Pakt",
+      "text": "Die EU will so schnell wie m\u00f6glich von russischem Gas unabh\u00e4ngig werden. Unterst\u00fctzung kommt nun aus den USA: Pr\u00e4sident Biden hat f\u00fcr dieses Jahr zus\u00e4tzliche 15 Milliarden Kubikmeter Fl\u00fcssiggas zugesagt. Auch langfristig soll mehr geliefert werden.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/indien-russland-energie-deal-101.html",
+      "headline": "Gespr\u00e4che mit dem Kreml Kauft Indien billiges \u00d6l aus Russland?",
+      "text": "W\u00e4hrend westliche L\u00e4nder nach Alternativen zum russischen \u00d6l suchen, w\u00e4hlt Indien einen anderen Weg. Der s\u00fcdasiatische Staat will offenbar ein Dumping-Angebot aus Moskau annehmen. Von Oliver Mayer.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/dschidda-treibstoffdepot-huthis-101.html",
+      "headline": "Huthi-Attacken in Saudi-Arabien \u00d6llager in Dschidda steht in Flammen",
+      "text": "In der saudischen Hafenstadt Dschidda ist ein Treibstofflager in Brand geraten - mutma\u00dflich nach einem Luftangriff der Huthi-Rebellen. In der N\u00e4he liegt die Rennstrecke der Formel 1, auf der Sonntag der Grand Prix gefahren werden soll.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/rki-wieler-lauterbach-pandemie-101.html",
+      "headline": "Lauterbach \u00fcber Neuinfektionen Dunkelziffer d\u00fcrfte doppelt so hoch sein",
+      "text": "Gesundheitsminister Lauterbach hat angesichts der vielen Neuinfektionen von \"keiner guten Situation\" gesprochen. Er geht sogar davon aus, dass die Zahl doppelt so hoch ist wie offiziell gemeldet. An die Bundesl\u00e4nder hat er klare Erwartungen.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-freitag-339.html",
+      "headline": "Liveblog",
+      "text": "Coronavirus-Pandemie ++ Rekord bei Arbeitsunf\u00e4higkeit wegen Omikron ++\nDie Omikron-Variante f\u00fchrt zu einem H\u00f6chstwert an Arbeitsunf\u00e4higkeitsf\u00e4llen und Fehltagen. Thailand will die Einreiseregeln f\u00fcr zweifach Geimpfte ab Juni weiter lockern. Die Entwicklungen im Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/entlastungspaket-koalition-personennahverkehr-kritik-probahn-103.html",
+      "headline": "Geplante Entlastungen Verkehrsminister bef\u00fcrworten Gratis-Ticket",
+      "text": "Die L\u00e4nder f\u00fcrchten einen hohen Verwaltungsaufwand bei den vom Bund geplanten 9-Euro-Monatsticket f\u00fcr den \u00f6ffentlichen Nahverkehr. Die Verkehrsminister schlagen stattdessen ein Nulltarif-Ticket vor.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-parteien-101.html",
+      "headline": "Analyse",
+      "text": "Saarland-Wahl Das gro\u00dfe Bangen der Kleinen\nIm Saarland haben CDU und SPD noch den Status als Volksparteien. Die Linkspartei war mal stark, aber das ist vorbei. Auch Gr\u00fcne, FDP und AfD sind schwach. Warum ist das so? Von Diana K\u00fchner-Mert.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/heil-arbeitsmarkt-fluechtlinge-ukraine-krieg-101.html",
+      "headline": "Arbeitsminister zu Kriegsfolgen \"Rente nicht gegen R\u00fcstung ausspielen\"",
+      "text": "Arbeitsminister Heil will verhindern, dass h\u00f6here R\u00fcstungsausgaben wegen des Ukraine-Kriegs zu Lasten des Sozialstaats gehen. Renten m\u00fcssten stabil bleiben und Gefl\u00fcchtete schnell in den Arbeitsmarkt integriert werden.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/fridays-for-future-klimastreik-101.html",
+      "headline": "Weltweiter Klimastreik Zehntausende bei \"Fridays for Future\"-Demos",
+      "text": "Weltweit hat \"Fridays for Future\" zu Demos f\u00fcr den Klimaschutz aufgerufen. Allein in Deutschland gibt es rund 300 Kundgebungen. Die Bewegung fordert unter anderem ein Ende der Lieferungen von \u00d6l, Gas und Kohle aus Russland.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/preise-oelmarkt-energie-101.html",
+      "headline": "Weiter hohe Schwankungen Preise am \u00d6lmarkt geben nach",
+      "text": "Weil die EU vorl\u00e4ufig auf ein Embargo verzichtet und die Sturmsch\u00e4den an einem Terminal offenbar doch weniger dramatisch ausfallen, l\u00e4sst die Furcht vor Engp\u00e4ssen am \u00d6lmarkt nach. Das dr\u00fcckt die Preise.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/finanzkonzerne-banken-investitionen-klimaschutz-101.html",
+      "headline": "740 Milliarden Dollar Banken investieren weiter in fossile Energie",
+      "text": "740 Milliarden Dollar: So viel investierten die gr\u00f6\u00dften Finanzh\u00e4user einer Studie zufolge zuletzt in fossile Energien. Ob sie damit gegen die Klimaziele versto\u00dfen oder f\u00fcr mehr Nachhaltigkeit sorgen, ist umstritten.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/eu-usa-datenschutzabkommen-einigung-101.html",
+      "headline": "Weitergabe pers\u00f6nlicher Daten EU und USA einigen sich auf Datenschutzabkommen",
+      "text": "2020 hatte der EuGH ein Abkommen gekippt, bei dem es um die Weitergabe pers\u00f6nlicher Daten an Konzerne wie Facebook geht. Nun haben sich die EU und die USA auf ein neues Abkommen geeinigt. Details sind noch nicht bekannt.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/nationale-sicherheitsstrategie-101.html",
+      "headline": "Analyse",
+      "text": "Deutschlands Au\u00dfenpolitik Strategie f\u00fcr mehr Sicherheit gesucht\nNoch ist es eher eine Worth\u00fclse: Deutschland arbeitet an einer Nationalen Sicherheitsstrategie - wegen Putins Krieg gegen die Ukraine schneller als geplant. Aber was hei\u00dft das eigentlich? Von Kai K\u00fcstner.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/china--pandemie-impfkampagne-aeltere-101.html",
+      "headline": "Ungeimpfte Senioren in China \"Es k\u00f6nnte wirklich \u00fcbel ausgehen\"",
+      "text": "Kein Land der Welt hat mehr gegen Covid-19 geimpft als China. Doch angesichts der Omikron-Welle k\u00f6nnte es sich nun r\u00e4chen, dass Senioren nicht priorisiert wurden. 52 Millionen \u00c4ltere sind nicht vollst\u00e4ndig geimpft. Von Benjamin Eyssel.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/mariupol-gefluechtete-101.html",
+      "headline": "Interview",
+      "text": "Gefl\u00fcchtete aus Mariupol \"Leichen liegen \u00fcberall in der Stadt\"\nJulia Gulakowa ist mit ihren drei Kindern, ihrer Mutter und ihrem Hund aus Mariupol gefl\u00fcchtet. Sie schildert ihre letzten Wochen in der eingeschlossenen Stadt - und wie die Familie es schaffte, nach Lwiw zu entkommen.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-afd-oligarch-101.html",
+      "headline": "Exklusiv",
+      "text": "Russland und die AfD Einflussreich gegen Europa\nDie Kontakte von AfD-Politikern zu einem kremltreuen Oligarchen sind noch enger als bekannt. Dokumente, die WDR, NDR und SZ vorliegen, zeigen zudem eine enge Verzahnung\u00a0der europ\u00e4ischen Rechten mit der Propagandamaschine des Oligarchen.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/moeblierte-wohnungen-mieten-immobilienmarkt-101.html",
+      "headline": "Mietpreisbremse Abzocke mit m\u00f6blierten Wohnungen?",
+      "text": "In St\u00e4dten mit knappem Wohnraum gilt die Mietpreisbremse. Doch werden immer mehr m\u00f6blierte Wohnungen befristet angeboten - zu sehr hohen Preisen. Eine Taktik von Vermietern, um die Regeln auszuhebeln? Von B. Sarikaya, J. K\u00fchlberg und R. Sprotte.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-nasdaq-oelpreis-goldpreis-apple-google-telekom-101.html",
+      "headline": "Marktbericht",
+      "text": "Gewinn zum Wochenende DAX rettet sich ins Plus\nZum Wochenende schlie\u00dft der DAX im Plus. Belastungsfaktoren wie die Energiepreise und die Furcht vor einer sch\u00e4rferen US-Geldpolitik sorgen aber daf\u00fcr, dass der Gewinn minimal bleibt.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/sport/sportschau/sportschau-story-54259.html",
+      "headline": "Niederlage gegen Nordmazedonien Weltmeisterschaft wieder ohne Italien",
+      "text": "Die Fu\u00dfball-WM 2022 in Katar geht ohne Italien \u00fcber die B\u00fchne: Der Europameister ist im Playoff-Halbfinale \u00fcberraschend an Nordmazedonien gescheitert. Portugal und Wales sind eine Runde weiter, Schweden muss gegen Tschechien in die Verl\u00e4ngerung.",
+      "category": ""
+    },
+    {
+      "link": "https://wetter.tagesschau.de/deutschland/",
+      "headline": "Wettervorhersage",
+      "text": "Am Samstag ziehen in den Norden und Nordosten teilweise dichte und vereinzelt ist etwas Nieselregem m\u00f6glich. Im \u00fcbrigen Land ist es sonnig oder h\u00f6chstens leicht bew\u00f6lkt. 9 bis 22 Grad.",
+      "category": ""
+    }
+  ]
+}
