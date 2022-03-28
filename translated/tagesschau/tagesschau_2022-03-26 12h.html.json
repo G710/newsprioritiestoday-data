@@ -1,0 +1,168 @@
+{
+  "datetime": "2022-03-28 21:50:02.359927",
+  "source": {
+    "name": "Tagesschau",
+    "country": "Germany",
+    "directory": "tagesschau",
+    "url": "https://www.tagesschau.de/",
+    "language": "de"
+  },
+  "articles": [
+    {
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-mariupol-101.html",
+      "headline": "War against Ukraine France wants to help Mariupol",
+      "text": "France plans with Turkey and Greece an evacuation campaign from Mariupol. According to the Ukrainian President Selenskyi the situation is still \"tragic\". Ukrainian armed forces are struggling to recover Cherson.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-samstag-113.html",
+      "headline": "Liveblog",
+      "text": "Ukraine War ++ Lambrecht defends late weapons supplies ++ \n Defense Minister Lambrecht has defended Germany's decision to deliver only late weapons to Ukraine. So far, 136 children have been killed in the war after Ukrainian information. The developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/biden-warschau-101.html",
+      "headline": "Biden in Poland Tedious recovery",
+      "text": "Tension is expected to talk about US President Biden in Warsaw - the relationship between the two countries was not easy. Already yesterday, at the local appointment near the Ukrainian border, Biden was full of praise for Poland. From T. Teichmann.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/moldau-fluechtlinge-105.html",
+      "headline": "Reportage",
+      "text": "Escape from the Ukraine of Odessa to Chisinau - and back \n Ukrainians can still come from the southern town of Odessa to the neighboring Republic of Moldova. Some bring their children and parents across the border - and then drive back. By Clemens Tiekotte.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/eu-gipfel-abschluss-scholz-101.html",
+      "headline": "EU summit ends Scholz against laced energy prices",
+      "text": "Two days were discussed in Brussels at the EU summit. It was high above all in the discussion about measures against high energy prices. A shared gas purchaser leaned with Chancellor Scholz - he relies on other ways.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/gasspeicher-bundestag-energie-habeck-101.html",
+      "headline": "Order in the Bundestag gas storage should be sufficiently full",
+      "text": "The stables of the gas storage should be re-regulated - the Bundestag decided: Specifically, the relevant operators are to be required to gradually fill them up to 90 percent on 1 November of a year.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/syrien-kaempfer-russland-101.html",
+      "headline": "World mirror",
+      "text": "War in Ukraine Syrian fighters for Russia? \n After Kreml information, tens of thousands of volunteers from the Middle East want to strengthen Russia in the war against Ukraine. Social networks of mauna of Syrian fighters - but their mission can not be carried out. What is known? From Martin Dorm.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/ukraine-gefluechtete-moldau-deutschland-101.html",
+      "headline": "Escape from Ukraine landed first flight from Moldova",
+      "text": "Foreign Minister Baerbock had promised the Republic of Moldova two weeks ago to relieve them with the inclusion of refugees from Ukraine. Now the first evacuation flight was landed at the Frankfurt airport.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-gefluechtete-103.html",
+      "headline": "Labor market like Ukraine refugees come to jobs",
+      "text": "More than 230,000 people have fled from Ukraine to Germany. Many of them want to work. And in the labor market, specialists are missing. Where do it hook? From Philipp Baumg\u00e4rtner.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-133.html",
+      "headline": "Donate help for people in Ukraine",
+      "text": "If you want to donate for people in Ukraine and refuge from Ukraine, you will find aid organizations and bank details here.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-samstag-361.html",
+      "headline": "Liveblog",
+      "text": "Coronavirus pandemic ++ More intensive patients fear ++ \n The German hospital company expects more intensive patients. The seven-day incidence rises to 1758. The developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/drosten-tagesthemen-101.html",
+      "headline": "Virologist Riding in the Day Themes \"The virus has not become absolutely harmless\"",
+      "text": "Hundreds of thousands of new corona cases daily - and politics decides loosening. Is this reasonable? Yes, the virologist says outside the daythema interview. But it is important to remain alert and reintroduce if necessary.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-bundespolitik-103.html",
+      "headline": "To analyse",
+      "text": "Federal politics like the parties to the Saar election look \n Between look and look away: While the federal CDU apparently has already priced the defeat on the Saar, the SPD is likely to look forward to the electoral Sunday. Quite different Green, FDP and Left. From Uli Hauck.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/entlastungspaket-koalition-personennahverkehr-kritik-probahn-103.html",
+      "headline": "Planned relief Transport ministers advocate free ticket",
+      "text": "Countries fear a high level of administrative expenses in the 9-euro monthly ticket for public transport planned by the federal government. Instead, the Ministers of Transport propose a zero ticket ticket.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/pkw-maut-schadenersatz-101.html",
+      "headline": "Failed car toll operators are entitled to compensation",
+      "text": "After the critic warned for the controversial car toll again and again before millions of consequences for taxpayers. An arbitral tribunal now affirmed the claim for damage and expenses of the operator intended.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/fridays-for-future-klimastreik-101.html",
+      "headline": "Worldwide climate strike Tens of thousands at \"Fridays for Future\" demos",
+      "text": "Worldwide, \"Fridays for Future\" has called for Demos for climate protection. In Germany alone, there are about 300 rallies. The movement demands, among other things, an end to the deliveries of oil, gas and coal from Russia.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/dschidda-treibstoffdepot-huthis-101.html",
+      "headline": "Huthi attacks in Saudi Arabia Oll bearings in Jedda stands in flames",
+      "text": "In the Saudi port city of Jidda, a fuel bearing is on fire - presumed for an air raid of the Hutthi rebels. Nearby is the racetrack of Formula 1, on Sunday the Grand Prix is to be driven.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/taylor-hawkins-tot-101.html",
+      "headline": "US rock band Foo Fighters drummer Taylor Hawkins is dead",
+      "text": "The drummer of the US rock band Foo Fighters, Taylor Hawkins, has died at the age of 50 years. He was with the band on the world tour and was found dead in a hotel in Colombia. The cause of death is not yet known. From Marcus Schuler.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-parteien-101.html",
+      "headline": "To analyse",
+      "text": "Saarland election The big bangs of the little ones \n In Saarland, CDU and SPD still have the status as a folk parties. The Left Party was strong, but that's over. Also green, FDP and AFD are weak. Why is that? From Diana K\u00fchner-Mert.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/ukraine-russland-donbass-101.html",
+      "headline": "Russia's war in Ukraine's new focus Donbass?",
+      "text": "Russia's early march in Ukraine builds, but in Moscow it is trying for a positive reading: the main goal of the first phase was achieved. Now you want to concentrate on the \"liberation\" of Donbass.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/swr/kadyrow-russland-ukraine-101.html",
+      "headline": "Exclusive",
+      "text": "Chechen in Ukraine Kadyrow's Holy War? \n In Ukraine war, Chechen leader Kadyrov wants to steer with combat troops as a useful helper Putin's. Striking is how he plays with Islamic symbolism. But what does he see? From Eric Beres.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-afd-oligarch-101.html",
+      "headline": "Exclusive",
+      "text": "Russia and the AFD influential against Europe \n The contacts of AFD politicians to a cremal oligarch are even more closely known. Documents that are WDR, NDR and SZ also show a close integration of the European rights with the propaganda machine of the oligarch.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/preise-oelmarkt-energie-101.html",
+      "headline": "Continue high fluctuations prices on the oil market give",
+      "text": "Because the EU provisionally dispenses with an embargo and apparently failing the storm damage to a terminal is less dramatic, the fear of bottlenecks in the oil market. That pushes the prices.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-nasdaq-oelpreis-goldpreis-apple-google-telekom-101.html",
+      "headline": "Market report",
+      "text": "Second win week in a row Wall Street defies interest fears \n Wall Street went the puff at the weekend. Especially the fear of a sharper US interest rate policy pressed the mood of investors. After all, it was enough for a small plus in the final spurt.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/sport/sportschau/sportschau-story-54259.html",
+      "headline": "Defeat against Nordmasedonia World Cup again without Italy",
+      "text": "The football World Cup 2022 in Qatar goes on the stage without Italy: The European champion has failed in the playoff semi-finals surprisingly on Nordmasedonia. Portugal and Wales are one round, Sweden must be in the extension against the Czech Republic.",
+      "category": ""
+    },
+    {
+      "link": "https://wetter.tagesschau.de/deutschland/",
+      "headline": "Weather forecast",
+      "text": "On Saturday, dense clouds turn out from the northeast to the middle, but it usually stays dry. Otherwise there is a lot of sunshine with only a few loose swells. Maximum values between 9 degrees on R\u00fcgen and up to 22 degrees in Baden.",
+      "category": ""
+    }
+  ]
+}

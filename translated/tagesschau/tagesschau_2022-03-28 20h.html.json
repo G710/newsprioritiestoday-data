@@ -1,0 +1,180 @@
+{
+  "datetime": "2022-03-28 21:50:02.040117",
+  "source": {
+    "name": "Tagesschau",
+    "country": "Germany",
+    "directory": "tagesschau",
+    "url": "https://www.tagesschau.de/",
+    "language": "de"
+  },
+  "articles": [
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/faeser-fluechtlinge-ukraine-eu-quote-101.html",
+      "headline": "Ukraine War Faeser for binding distribution of refugees",
+      "text": "How should the many Ukraine refugees be distributed in the EU? About the EU Ministers of Interior. The result disappoints Federal Minister of the Interior Faeser. In the day topics, she regretted that the adopted index was not binding.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/abramowitsch-ukraine-unterhaendler-giftanschlag-101.html",
+      "headline": "Symptoms after Ukraine talks Doubts about alleged Abramovich poisoning",
+      "text": "The Russian Oligarch Abramovich apparently conveys between Ukraine and Russia. After a round of negotiations, poisoning symptones should have occurred with him and two Ukrainians. The Ukrainian side points back.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-109.html",
+      "headline": "Liveblog",
+      "text": "Ukraine War ++ Apparently 510.000 Ukrainians returned ++ \n Hundreds of thousands of Ukrainians come back to their homeland according to the local border police. The Ukrainian President Selenskyj has informed Chancellor Scholz about the state of negotiations with Russia. The developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-energielieferungen-zahlung-rubel-g7-abgelehnt-101.html",
+      "headline": "Russian requirement G7 states reject gas payments in rubles",
+      "text": "The G7 states have given Russian demands for a payment of gas bills in rubles. According to Economic Minister Dabeck, the G7 Energy Ministers agree that this requirement is a break of existing contracts.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/energie-embargo-krieg-finanzierung-kluge-101.html",
+      "headline": "Interview",
+      "text": "Expert on oil and gas stop \"embargo meets heart of Russian power\" \n Chancellor Scholz claims that Putin could \"do nothing\" with the money for gas, oil and coal \"and argues against an energy embargo. Expert Janis Kluge sees something different in the Tagesschau.de interview.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/energieembargo-ukraine-krieg-101.html",
+      "headline": "Discussion about Embargo use Putin the energy billion?",
+      "text": "The discussion about an energy embargo against Russia is in full swing. Proponents say it shorten the war. Opponents warn before the consequences for the global economy. Who is right? From N. Bushschl\u00fcter.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/russland-deutschewelle-105.html",
+      "headline": "Classification in Russia Deutsche Welle now \"foreign agent\"",
+      "text": "Media working in Russia get more reprisals. The German wave was explained to the \"foreign agent\". The Kremlin critical newspaper \"Nowaja Gaseta\" does not appear after warning for the time being.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/z-symbol-russland-verbot-101.html",
+      "headline": "Russia's war sign show the \"Z\" symbol can be punishable",
+      "text": "The \"Z\" is considered symbol for the Russian attack war on Ukraine. Now the Ministry of Interior explained: show the sign in Germany can be punishable. Several federal states have already under punishment.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-133.html",
+      "headline": "Donate help for people in Ukraine",
+      "text": "If you want to donate for people in Ukraine and refuge from Ukraine, you will find aid organizations and bank details here.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lauterbach-hotspot-regel-laender-101.html",
+      "headline": "Lauterbach to the hotspot rule \"act and do not complain\"",
+      "text": "At the weekend, national corona protective measures will expire. There is no legal basis for this, Health Minister Laueanbach explained after a top meeting. Now the countries would also have to implement the hotspot rule.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-montag-267.html",
+      "headline": "Liveblog",
+      "text": "Coronavirus Pandemic ++ Scholz is reminiscent of global vaccination goal ++ \n Chancellor Scholz has called to lose sight of the global vaccination target of 70 percent. Federal President Steinmeier has to cancel a trip to Poland because of his Covid disease. The current developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-reaktionen-103.html",
+      "headline": "Parties after the Saarland election now can not be depressed",
+      "text": "CDU boss Merz wants to be spurred by the poor performance of his party in Saarland. Also FDP boss Lindner sees no reason for restlessness. On the other hand, the Left Party Handert, Landeschef Lutz pulled consequences.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/spd-saarland-wahl-101.html",
+      "headline": "Election victory in Saarland SPD hopes for \"tailwind\" for further elections",
+      "text": "The success of the SPD in Saarland should only be the prelude. After all, 2022 still three state parliament stands. Especially in such times of crisis, the \"attitude\" of the party needed, emphasized options winner Rehlinger.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/missbrauchsgutachten-folgen-101.html",
+      "headline": "According to Munich abuse report Kirchenrichter Wolf issues offices",
+      "text": "A good two months after the presentation of the Munich abuse report, personnel consequences follow: The church judge Lorenz Wolf wants to give up his offices. He had been criticized for his handling of abuse cases.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tarifeinigung-luftsicherheitskraefte-101.html",
+      "headline": "After warning strikes at airports more money for security personnel",
+      "text": "After several warning strikes with massive flight failures, the collective bargaining conflict is enclosed in the private security industry at airports. According to the trade union ver.di, a three-stage tariff increase was agreed.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-113.html",
+      "headline": "Interests and prices rising burst the real estate bubble?",
+      "text": "The construction interest rises. Nevertheless, real estate continues to increase. Experts have been talking about overheating on the market for some time. Now warnings are piling up in front of the burst of a real estate bubble. How realistic is that? From Emal Atif.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienpreise-immobilienpreisindex-haeuserpreisindex-101.html",
+      "headline": "House prices 2021 residential real estate are more expensive",
+      "text": "The prices for houses and apartments in Germany have increased by eleven percent last year. At the end of the year, prices climbed in record pace - especially in sparsely populated regions.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/treibhausgase-emissionen-deutschland-klimawandel-101.html",
+      "headline": "Greenhouse gases in Germany One third of all emissions of only 30 companies",
+      "text": "One third of all greenhouse gases expelled in Germany are accounted for at only 30 companies. The largest issuers are analysis according to the large energy companies as well as the automotive and steel industry.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-taliban-frauen-rechte-101.html",
+      "headline": "Woman protests in Afghanistan \"You can not exclude us\"",
+      "text": "Gradually, women in Afghanistan lose more rights and freedoms. But not all want to accept the orders of the Taliban - and make their anger on the street air. From Silke Diettrich.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/kultur/oscars-2022-103.html",
+      "headline": "94. Oscar ceremony shine, glamor - and a slap",
+      "text": "Actually, the Oscars for many reason to cheer: for the makers of the best movie \"Coda\", for two German Oscar winners and actors wants Smith. But he made with a slap for the skull of the evening.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/bka-straftaten-ukrainekrieg-101.html",
+      "headline": "Federal Criminal Police Office Hundreds of Crime related to Ukraine War",
+      "text": "Insults and property damage, but also physical attacks - the police registered in Germany hundreds of crimes against Russian and Ukrainian-brighter people. Background is the war in Ukraine.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/malta-wahl-labour-101.html",
+      "headline": "Labor election victory on Malta corona management overproof scandals",
+      "text": "The Labor Party on Malta struggles with corruption scandals - and nevertheless out of choice as a winner. Because with the population, it could point above all with their dealings with the corona crisis. From J\u00f6rg Seisselberg.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/swr/kadyrow-russland-ukraine-101.html",
+      "headline": "Exclusive",
+      "text": "Chechen in Ukraine Kadyrow's Holy War? \n In Ukraine war, Chechen leader Kadyrov wants to steer with combat troops as a useful helper Putin's. Striking is how he plays with Islamic symbolism. But what does he see? From Eric Beres.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-afd-oligarch-101.html",
+      "headline": "Exclusive",
+      "text": "Russia and the AFD influential against Europe \n The contacts of AFD politicians to a cremal oligarch are even more closely known. Documents that are WDR, NDR and SZ also show a close integration of the European rights with the propaganda machine of the oligarch.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ukraine-deutsche-firmen-krieg-101.html",
+      "headline": "Consequences for business war threatens Ukrainian boom industries",
+      "text": "Also because there are so many well-trained IT specialists in Ukraine, German companies have invested in the country in the past. How do you go with the war? From Patrick Schneider.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-gold-ukraine-krieg-zinsen-101.html",
+      "headline": "Market report",
+      "text": "Win Br\u00f6ckeln Wall Street does not do with \n In the afternoon, the stock market was significantly more obvious. In view of the lack of support from Wall Street, the DAX could not hold its strong profits.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/taylor-hawkins-tot-101.html",
+      "headline": "US rock band Foo Fighters drummer Taylor Hawkins is dead",
+      "text": "The drummer of the US rock band Foo Fighters, Taylor Hawkins, has died at the age of 50 years. He was with the band on the world tour and was found dead in a hotel in Colombia. The cause of death is not yet known. From Marcus Schuler.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://wetter.tagesschau.de/deutschland/",
+      "headline": "Weather forecast",
+      "text": "At night, there is a little rain in the north and northeast. In the middle and in the south it is increasingly cloudy from West. But it usually stays dry. On Tuesday it is predominantly cloudy, loosening systems are preferred in alpine harness and towards the coasts. First it comes only locally to show over, in the evening is then a territory rain. 7 to 21 degrees.",
+      "category": ""
+    }
+  ]
+}

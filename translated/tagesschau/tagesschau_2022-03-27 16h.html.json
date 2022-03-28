@@ -1,0 +1,186 @@
+{
+  "datetime": "2022-03-28 21:50:02.684991",
+  "source": {
+    "name": "Tagesschau",
+    "country": "Germany",
+    "directory": "tagesschau",
+    "url": "https://www.tagesschau.de/",
+    "language": "de"
+  },
+  "articles": [
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-129.html",
+      "headline": "Make change in Saarland SPD clear front - CDU and left over",
+      "text": "For the SPD with top candidate Rehlinger, an overwhelming election victory is characterized by the Saar, possibly an absolute majority. The ruling CDU experiences a disaster. The left crashes. Afd and green are probably in the state parliament, the FDP must be taken.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-landtag-101.html",
+      "headline": "To analyse",
+      "text": "SPD dialing winner Rehlinger her very personal success \n After more than two decades, the SPD in Saarland is strongest power again - thanks to top candidate Rehlinger. She showed good sense of the topics in the country. The defeat of the CDU is homemade. From J\u00f6rg Sch\u00f6nborn.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-landtagswahl-saarland-101.html",
+      "headline": "Liveblog",
+      "text": "Landtag election in the Saarland ++ SPD wins clearly ++ \n According to the first extrapolation of Infratest Dimap, the SPD wins 43.1 percent in Saarland. With significant losses, the CDU ends up at 27.6 percent. The left is only 2.7 percent - this is a loss of ten percentage points. All developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-sonntag-113.html",
+      "headline": "Liveblog",
+      "text": "Ukraine war ++ negotiations from tomorrow in Turkey ++ \n Representatives of Russia and Ukraine, according to Ukrainian information, start a new round of negotiation tomorrow in Turkey. France's President Macron has called for more restraint in words and deeds. The developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/ukraine-russland-lwiw-105.html",
+      "headline": "War against Ukraine rocket attacks on several cities",
+      "text": "The Russian army should have destroyed a tank bearing by rockets near the Ukrainian city of Lviv. Near Charkiw was a nuclear research plant under fire. Moscow and Kyiv agreed for today more flight corridors.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/biden-rede-polen-103.html",
+      "headline": "After comments on Putin Russian indignation via biden speech",
+      "text": "With sharp words, US President Biden had attacked Kremlchef Putin in Warsaw. Although the White House and Foreign Minister flashed quickly, yet Russian politicians reacted indignantly to Benden.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/raketenschutzschild-arrow-3-israel-101.html",
+      "headline": "Government is considering buying rocket protective sign for Germany?",
+      "text": "Given the changed threat situation in Europe by Russia's war against Ukraine, the Federal Government examines the purchase of a rocket protection screen. In conversation is an Israeli defense system.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/steinmeier-wirtschaft-ukraine-101.html",
+      "headline": "Federal President Steinmeier \"There are harder days on us\"",
+      "text": "Federal President Steinmeier has set German in a solidarity concert for Ukraine on long-term restrictions. The Ukrainian Ambassador Melnyk remained away from the event against Russian artists.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/registrierung-gefluechtete-ukraine-101.html",
+      "headline": "Dispute for recording Faester against registration refugee",
+      "text": "Federal Minister of the Interior Faeser does not want all the refugee people from Ukraine to be registered in Germany as the Union demands. The Bavarian Interior Minister Herrmann warned against a security gap.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/norwegen-russland-101.html",
+      "headline": "World mirror",
+      "text": "Gro\u00dfmanver in the Arctic Norway \"Cold Answer\" \n Norway has a nearly 200 kilometer border with Russia. The once good neighborhood is a tailored observation. And NATO has recognized that the Arctic region has to be protected militarily. Of C. Blenker.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-133.html",
+      "headline": "Donate help for people in Ukraine",
+      "text": "If you want to donate for people in Ukraine and refuge from Ukraine, you will find aid organizations and bank details here.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-sonntag-365.html",
+      "headline": "Liveblog",
+      "text": "Coronavirus Pandemic ++ Bayern demands mask duty to May ++ \n Bavaria's Health Minister Holetschek addresses an extension of masking in indoors. Hong Kong loosens its strict corona provisions for air traffic. All developments in Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/corona-lockdown-shanghai-101.html",
+      "headline": "Corona Pandemic Shanghai Before Strict Lockdown",
+      "text": "The Chinese metropolis Shanghai has now announced a Lockdown. To test the population, public life should be shut down in two stages. The authorities had hoped to be able to give up drastic measures.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/taliban-frauenrechte-101.html",
+      "headline": "Afghanistan Taliban continues to restrict women's rights",
+      "text": "The Taliban always adopt stricter regulations for public life in Afghanistan. In recreational parks, gender separation is expected to reign, sole travelers are apparently no longer traveling by plane.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/malta-parlamentswahl-labour-sieg-101.html",
+      "headline": "Parliament election Labor party wins election on Malta",
+      "text": "In the smallest country of the European Union, the ruling Labor Party has won the parliamentary election. Malta's opposition leader Grech congratulated Prime Minister Abela to his success. From J\u00f6rg Seisselberg.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/flugzeugabsturz-china-101.html",
+      "headline": "Aircraft crash in China authorities confirm death of all occupants",
+      "text": "In the plane crash on Monday in China, all 132 occupants have come to authorities. Meanwhile, the second flight data recorder of the passenger machine has been found. The accident cause is further unclear.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-101.html",
+      "headline": "France's left in the election campaign as anti-Macron on vote",
+      "text": "M\u00e9lenchon can make itself as the only presidential candidate of French left hope on the run-off election. He laves between attacks on Macron, Russia and his utopia of the \"Sixth Republic\". From Sabine Wachs.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/spanien-feriensiedlung-abriss-101.html",
+      "headline": "Spanish Extremadura Holiday complex threatens the demolition bulb",
+      "text": "For 15 years, a lawsuit has been raging around an exclusive condominium in Spain's extremadura. Now the Supreme Court has confirmed: the settlement was built illegally in a nature reserve - so she has to go away. From N. Bachmayer.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/energiesparen-101.html",
+      "headline": "overview",
+      "text": "Tips from experts is so easy is energy saving \n \"Who wants to harm Putin, saves energy\": This solution has recently issued Minister of Economic Affairs. Small measures that do not even give rise to great renunciation. From Sandra Biegger.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/sport/sportschau/severin-freund-karriereende-101.html",
+      "headline": "Farewell with 33 years ski jumper friend ends his career",
+      "text": "Ex exactly 250 times Severin Friend started in the ski jump World Cup. Now the Bayer finished his impressive career in which he became Olympic champion, world champion and total World Cup winner.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-121.html",
+      "headline": "overview",
+      "text": "State before change of power? What to know about Saarland choice \n At the Saar begins the election year - and there could be a change of power. Why the parties in Berlin should not underestimate the signals from the Saar which names and numbers should know - an overview.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/ungarn-wahlkampf-101.html",
+      "headline": "Europamagazin.",
+      "text": "Election campaign in Hungary with Putin arranging - or not? \n One week before the parliamentary election in Hungary, Russia's war in Ukraine is the great topic: while the opposition penetrated the crem seal of the government, Fidesz wants to score. From Nikolaus Neumaier.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/swr/kadyrow-russland-ukraine-101.html",
+      "headline": "Exclusive",
+      "text": "Chechen in Ukraine Kadyrow's Holy War? \n In Ukraine war, Chechen leader Kadyrov wants to steer with combat troops as a useful helper Putin's. Striking is how he plays with Islamic symbolism. But what does he see? From Eric Beres.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-afd-oligarch-101.html",
+      "headline": "Exclusive",
+      "text": "Russia and the AFD influential against Europe \n The contacts of AFD politicians to a cremal oligarch are even more closely known. Documents that are WDR, NDR and SZ also show a close integration of the European rights with the propaganda machine of the oligarch.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt-gefluechtete-103.html",
+      "headline": "Labor market like Ukraine refugees come to jobs",
+      "text": "More than 230,000 people have fled from Ukraine to Germany. Many of them want to work. And in the labor market, specialists are missing. Where do it hook? From Philipp Baumg\u00e4rtner.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/dax-dow-nasdaq-oelpreis-goldpreis-apple-google-telekom-101.html",
+      "headline": "Market report",
+      "text": "Second win week in a row Wall Street defies interest fears \n Wall Street went the puff at the weekend. Especially the fear of a sharper US interest rate policy pressed the mood of investors. After all, it was enough for a small plus in the final spurt.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/taylor-hawkins-tot-101.html",
+      "headline": "US rock band Foo Fighters drummer Taylor Hawkins is dead",
+      "text": "The drummer of the US rock band Foo Fighters, Taylor Hawkins, has died at the age of 50 years. He was with the band on the world tour and was found dead in a hotel in Colombia. The cause of death is not yet known. From Marcus Schuler.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/sport/sportschau/fussball-laenderspiel-deutschland-israel-101.html",
+      "headline": "Football International Game Germany wins test game against Israel",
+      "text": "Eight games, eight victories: The balance sheet of national coach Flick remains spotless. The German national team won her test match against Israel in Sinsheim 2: 0.",
+      "category": ""
+    },
+    {
+      "link": "https://wetter.tagesschau.de/deutschland/",
+      "headline": "Weather forecast",
+      "text": "On Monday it is sunny in the south. Otherwise, in addition to sunshine, there are also some fog fields and especially in parts of the middle as well as in the northwest more compact clouds. Mostly it stays dry. 8 to 23 degrees.",
+      "category": ""
+    }
+  ]
+}

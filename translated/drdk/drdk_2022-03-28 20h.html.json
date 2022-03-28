@@ -1,0 +1,312 @@
+{
+  "datetime": "2022-03-28 21:50:04.325321",
+  "source": {
+    "name": "DRDK",
+    "country": "Denmark",
+    "directory": "drdk",
+    "url": "https://www.dr.dk/nyheder",
+    "language": "da"
+  },
+  "articles": [
+    {
+      "link": "/nyheder/seneste/storbritannien-vil-oege-det-oekonomiske-pres-paa-rusland",
+      "headline": "31 min. since \n Britain will increase financial pressure on Russia",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/tesfaye-vi-skal-ikke-fordele-i-et-sirligt-system-vi-skal-soerge-sikker-transport",
+      "headline": "Today at. 19:53 \n Tesfaye: We must not benefit in a neat system - We must provide safe transport",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/40-aarig-kvinde-bliver-loesladt-efter-over-aars-varetaegtsfaengsling-i-sag-om",
+      "headline": "Today at. 19:07. \n 40-year-old woman is released after over two years of custody in case of terrorist plans",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/de-sidste-indrejserestriktioner-fjernes-ved-midnat",
+      "headline": "Today at. 18:04 \n The last entry limits are removed at midnight",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/cirka-750-flygtninge-fra-ukraine-har-faaet-opholdstilladelse-efter-saerloven",
+      "headline": "Today at. 18:02. \n Approximately 750 refugees from Ukraine have been granted a residence permit by Special Act",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/pet-strammer-op-efter-tibetkommissionens-kritik",
+      "headline": "Today at. 17:33. \n Pet tightens up after Tibetkommissionens criticism",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/byret-maend-lagde-terrorplaner-og-ville-lave-bombe-kvinde-frifindes",
+      "headline": "Today at. 17:08. \n Byrette: Two men laid terror plans and would make bomb - woman disassembled",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/fyns-politi-fortsaetter-samarbejde-med-psykiatrien",
+      "headline": "Today at. 17:03. \n Funen police continue collaboration with psychiatry",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/borgmester-ukrainske-styrker-har-generobret-kontrollen-i-irpin",
+      "headline": "Today at. 16:40. \n Mayor: Ukrainian strengths have generated control in Irpin",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/stort-uafhaengigt-russisk-medie-stopper-publicering",
+      "headline": "Today at. 16:25. \n Large independent Russian media stops publishing",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/hundredvis-af-kvinder-maa-vente-paa-erstatning-i-billedmappe-sag",
+      "headline": "Today at. 16:10 \n Hundreds of women must wait for replacement in image folder case",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/sporten/seneste-sport/christian-eriksen-spiller-med-bindet-om-armen-i-parken-comback",
+      "headline": "Today at. 16:06 \n Sport \n Christian Eriksen plays with the binder about the arm in the park-comback",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/hastelov-skal-lukke-danmark-som-russisk-sanktionssmuthul",
+      "headline": "Today at. 15:55 \n HASTEL COUND must close Denmark as Russian penalties mower",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/prinsesse-isabella-skifter-skole",
+      "headline": "Today at. 15:37. \n Princess Isabella changes school",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/politiet-mener-ikke-der-ligger-noget-kriminelt-bag-storbrand-i-vanloese",
+      "headline": "Today at. 15:11 \n Police don't mean there is something criminal behind big fire in Vanl\u00f8se",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/mcdonalds-haever-prisen-paa-en-cheeseburger-foerste-gang-i-20-aar",
+      "headline": "Today at. 14:56 \n McDonalds raise the price of a cheeseburger for the first time in 20 years",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/carlsberg-forlader-rusland",
+      "headline": "Today at. 14:34. \n Carlsberg leaves Russia",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/nyt-pres-paa-havneudvidelse-i-aarhus-fire-partier-kraever-alternativt-forslag",
+      "headline": "Today at. 14:10 \n New pressure on port expansion in Aarhus: Four parties require alternative proposal",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/faerre-unge-soeger-ind-paa-de-smaa-gymnasier-i-yderomraaderne",
+      "headline": "Today at. 13:48. \n Fewer young people seek in to the small colleges in the outer areas",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/svensk-politi-jagter-maskeret-gerningsmand-efter-skyderi-i-et-traeningscenter",
+      "headline": "Today at. 13:28. \n Swedish police chasing masked offender after shooting in a training center",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/koebenhavns-politi-medarbejdere-skal-klaedes-paa-saa-vi-ikke-faar-en-ny-tibet-sag",
+      "headline": "Today at. 13:15. \n Copenhagen Police: Employees must be dressed so we do not get a new Tibet case",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/19000-personer-er-evakueret-som-foelge-af-naturbrande-i-colorado",
+      "headline": "Today at. 12:58 \n 19,000 people are evacuated as a result of nature fires in Colorado",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/sporten/seneste-sport/fire-danske-haandboldprofiler-kaaret-som-verdens-bedste",
+      "headline": "Today at. 12:45 \n Sport \n Four Danish handball profiles named the world's best",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/huawei-tjener-rekordmange-penge-trods-fortsatte-kvaler-i-usa",
+      "headline": "Today at. 12:14. \n Huawei serves recordmange money despite continuing mites in the US",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/27-aarig-doemt-dele-adgang-til-kraenkende-billedmapper",
+      "headline": "Today at. 11:49. \n 27-year-old convicted of sharing access to abusive image folders",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/flere-kvinder-tager-paa-kvindekrisecentre",
+      "headline": "Today at. 11:22. \n More women take on women's crisis centers",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/udenrigsminister-efter-tibetkommissionens-kritik-har-tillid-til-medarbejdere",
+      "headline": "Today at. 11:05. \n Foreign Minister after Tibetkommissionens criticism: trust that employees respect the right of the Danes to demonstrate",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/tibetkommissionen-retter-haard-kritik-mod-ministerium",
+      "headline": "Today at. 10:46 \n Tibetkommissionet corrected tough criticism to ministry",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/kommuner-skal-skabe-overblik-over-beskyttelsesrum",
+      "headline": "Today at. 10:40. \n Municipalities must create an overview of shelter",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/i-kyiv-genaabner-skolerne-i-hvert-fald-online",
+      "headline": "Today at. 10:30 \n In Kyiv, schools reopen - at least online",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/mariupols-borgmester-160000-civile-er-fanget-i-byen",
+      "headline": "Today at. 10:27. \n Mariupol's Mayor: 160,000 Civilians are trapped in the city",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/heineken-traekker-sig-ud-af-rusland",
+      "headline": "Today at. 10:15. \n Heineken pulls out of Russia and puts Russian department for sale",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/foetex-og-bilka-haever-priserne-paa-tusindvis-af-varer-online",
+      "headline": "Today at. 09:50 \n F\u00f8tex and Bilka raises the prices of thousands of goods online",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/inger-stoejberg-er-begyndt-afsone-sin-straf-med-fodlaenke",
+      "headline": "Today at. 09:43. \n Inger Noiseberg has begun to set off his penalty with foot link",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/se-billederne-af-europas-foerste-power-x-lastbil-der-er-ankommet-til-danmark",
+      "headline": "Today at. 09:25. \n Europe's First Power-to-X truck has arrived in Denmark",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/filmchef-er-glad-paa-trods-af-dansk-oscar-skuffelse-fem-nomineringer-er-stadig-fem",
+      "headline": "Today at. 09:24. \n Movie manager is happy despite Danish Oscar disappointment: 'Five nominations are still five nominations'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/politiet-i-los-angelse-chris-rock-har-afvist-anmelde-will-smith-vold",
+      "headline": "Today at. 09:13. \n Police in Los Angeles: Chris Rock has declined to report Will Smith for violence",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/shanghai-starter-coronanedlukning-byens-26-millioner-mennesker",
+      "headline": "Today at. 09:01. \n Shanghai starts Coronanned closure for the city's 26 million people",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/oscarakademiet-vi-accepterer-ikke-vold-i-nogen-form",
+      "headline": "Today at. half past eight \n Oscarakademy: We do not accept violence in any form",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/kulturminister-danmark-allerede-vundet-med-de-her-fem-flotte-nomineringer",
+      "headline": "Today at. 08:27. \n Cultural Minister: 'Denmark has already won with these five beautiful nominations'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/oscar-stjerner-holdt-stilhed-til-aere-ukraine",
+      "headline": "Today at. 08:14 \n Oscar stars held silence in honor of Ukraine",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/en-halv-million-mennesker-flygter-fra-voldsom-toerke-i-somalia",
+      "headline": "Today at. 08:06. \n Half a million people flee from violent drought in Somalia",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/politiet-aabner-delvist-trafikken-efter-storbrand-men-lommer-af-gloeder-goer",
+      "headline": "Today at. 07:41. \n Police partially open for traffic after big fire, but 'pockets of glow' do the work dangerous",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/sporten/seneste-sport/magnussen-slipper-straf-og-beholder-niendepladsen",
+      "headline": "Today at. 07:29. \n Sport \n Magnussen escapes punishment and retains ninth place in Saudi Arabia's Grand Prix",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/uheld-paa-hilleroedmotorvejen-kun-muligt-passere-med-forsigtighed",
+      "headline": "Today at. 07:26. \n Accidentally at Hiller\u00f8dmotorvejen: only possible to pass with caution",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/stort-eksperiment-viser-daarligt-indeklima-i-mere-end-halvdelen-af-klasserne",
+      "headline": "Today at. 06:55 \n Large experiment shows poor indoor climate in more than half of Danish school classes",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/mandag-har-en-sloev-opklaring-til-de-fleste",
+      "headline": "Today at. 06:30 \n Monday has a blunt clarification to most",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/filmen-coda-vinder-hovedprisen-ved-aarets-oscaruddeling",
+      "headline": "Today at. 06:08. \n The movie 'Coda' wins the main price at this year's oscar delivery",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/will-smith-slaar-komiker-efter-joke-under-oscaruddeling",
+      "headline": "Today at. 05:55 \n Will Smith beats comedians after Joke under Oscaruddeling",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "/nyheder/seneste/canada-kvalificerer-sig-til-fodbold-vm-foerste-gang-i-36-aar",
+      "headline": "Today at. 05:35. \n Canada qualifies for football VM for the first time in 36 years",
+      "text": "",
+      "category": ""
+    }
+  ]
+}

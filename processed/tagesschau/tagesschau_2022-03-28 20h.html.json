@@ -1,0 +1,180 @@
+{
+  "datetime": "2022-03-28 21:50:02.040117",
+  "source": {
+    "name": "Tagesschau",
+    "country": "Germany",
+    "directory": "tagesschau",
+    "url": "https://www.tagesschau.de/",
+    "language": "de"
+  },
+  "articles": [
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/faeser-fluechtlinge-ukraine-eu-quote-101.html",
+      "headline": "Ukraine-Krieg Faeser f\u00fcr verbindliche Verteilung der Fl\u00fcchtlinge",
+      "text": "Wie sollen die vielen Ukraine-Fl\u00fcchtlinge in der EU verteilt werden? Dar\u00fcber berieten die EU-Innenminister. Das Ergebnis entt\u00e4uscht Bundesinnenministerin Faeser. In den tagesthemen bedauerte sie, dass der beschlossene Index nicht verbindlich sei.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/abramowitsch-ukraine-unterhaendler-giftanschlag-101.html",
+      "headline": "Symptome nach Ukraine-Gespr\u00e4chen Zweifel an angeblicher Abramowitsch-Vergiftung",
+      "text": "Der russische Oligarch Abramowitsch vermittelt offenbar zwischen der Ukraine und Russland. Nach einer Verhandlungsrunde sollen bei ihm und zwei Ukrainern Vergiftungssymptone aufgetreten sein. Die ukrainische Seite weist das zur\u00fcck.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-ukraine-montag-109.html",
+      "headline": "Liveblog",
+      "text": "Ukraine-Krieg ++ Offenbar 510.000 Ukrainer zur\u00fcckgekehrt ++\nHunderttausende Ukrainer kommen nach Angaben der dortigen Grenzpolizei in ihre Heimat zur\u00fcck. Der ukrainische Pr\u00e4sident Selenskyj hat Kanzler Scholz \u00fcber den Stand der Verhandlungen mit Russland informiert. Die Entwicklungen im Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/russland-energielieferungen-zahlung-rubel-g7-abgelehnt-101.html",
+      "headline": "Russische Forderung G7-Staaten lehnen Gas-Zahlungen in Rubel ab",
+      "text": "Die G7-Staaten haben russischen Forderungen nach einer Zahlung von Gas-Rechnungen in Rubel eine Absage erteilt. Die G7-Energieminister sind sich laut Wirtschaftsminister Habeck einig, dass diese Forderung einen Bruch der bestehenden Vertr\u00e4ge darstellt.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/energie-embargo-krieg-finanzierung-kluge-101.html",
+      "headline": "Interview",
+      "text": "Experte \u00fcber \u00d6l- und Gas-Stopp \"Embargo trifft Herz der russischen Macht\"\nKanzler Scholz behauptet, Putin k\u00f6nne mit dem Geld f\u00fcr Gas, \u00d6l und Kohle \"gar nichts anfangen\" - und argumentiert damit gegen ein Energie-Embargo. Experte Janis Kluge sieht das im tagesschau.de-Interview etwas anders.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/energieembargo-ukraine-krieg-101.html",
+      "headline": "Diskussion \u00fcber Embargo N\u00fctzen Putin die Energie-Milliarden?",
+      "text": "Die Diskussion \u00fcber ein Energie-Embargo gegen Russland ist in vollem Gange. Bef\u00fcrworter sagen, es verk\u00fcrze den Krieg. Gegner warnen vor den Folgen f\u00fcr die Weltwirtschaft. Wer hat Recht? Von N. Buschschl\u00fcter.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/europa/russland-deutschewelle-105.html",
+      "headline": "Einstufung in Russland Deutsche Welle nun \"ausl\u00e4ndischer Agent\"",
+      "text": "In Russland arbeitende Medien bekommen weitere Repressalien zu sp\u00fcren. Die Deutsche Welle wurde zum \"ausl\u00e4ndischen Agenten\" erkl\u00e4rt. Die Kreml-kritische Zeitung \"Nowaja Gaseta\" erscheint nach Verwarnungen vorerst nicht mehr.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/z-symbol-russland-verbot-101.html",
+      "headline": "Russlands Kriegszeichen Zeigen des \"Z\"-Symbols kann strafbar sein",
+      "text": "Das \"Z\" gilt als Symbol f\u00fcr den russischen Angriffskrieg auf die Ukraine. Nun erkl\u00e4rte das Innenministerium: Das Zeigen des Zeichens in Deutschland kann strafbar sein. Mehrere Bundesl\u00e4nder haben es bereits unter Strafe gestellt.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/spendenkonten/spendenkonten-133.html",
+      "headline": "Spenden Hilfe f\u00fcr die Menschen in der Ukraine",
+      "text": "Wenn Sie f\u00fcr die Menschen in der Ukraine und Gefl\u00fcchtete aus der Ukraine spenden wollen, finden Sie hier Hilfsorganisationen und Bankverbindungen.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/lauterbach-hotspot-regel-laender-101.html",
+      "headline": "Lauterbach zur Hotspot-Regel \"Handeln und nicht beklagen\"",
+      "text": "Am Wochenende werden die nationalen Corona-Schutzma\u00dfnahmen auslaufen. Es gebe daf\u00fcr keine rechtliche Grundlage mehr, erkl\u00e4rte Gesundheitsminister Lauterbach nach einem Spitzentreffen. Nun m\u00fcssten die L\u00e4nder die Hotspot-Regel auch umsetzen.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/newsticker/liveblog-coronavirus-montag-267.html",
+      "headline": "Liveblog",
+      "text": "Coronavirus-Pandemie ++ Scholz erinnert an globales Impfziel ++\nBundeskanzler Scholz hat dazu aufgerufen, das globale Impfziel von 70 Prozent nicht aus den Augen zu verlieren. Bundespr\u00e4sident Steinmeier muss wegen seiner Covid-Erkrankung eine Reise nach Polen absagen. Die aktuellen Entwicklungen im Liveblog.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/innenpolitik/saarland-wahl-reaktionen-103.html",
+      "headline": "Parteien nach der Saarland-Wahl Jetzt nur nicht depressiv werden",
+      "text": "CDU-Chef Merz will sich vom schlechten Abschneiden seiner Partei im Saarland anspornen lassen. Auch FDP-Chef Lindner sieht keinen Grund f\u00fcr Unruhe. Die Linkspartei hingegen hadert, Landeschef Lutze zog Konsequenzen.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/spd-saarland-wahl-101.html",
+      "headline": "Wahlsieg im Saarland SPD hofft auf \"R\u00fcckenwind\" f\u00fcr weitere Wahlen",
+      "text": "Der Erfolg der SPD im Saarland soll erst der Auftakt sein. Immerhin stehen 2022 noch drei Landtagswahlen an. Gerade in solchen Krisenzeiten brauche es die \"Haltung\" der Partei, betonte Wahlsiegerin Rehlinger.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/missbrauchsgutachten-folgen-101.html",
+      "headline": "Nach M\u00fcnchner Missbrauchsgutachten Kirchenrichter Wolf gibt \u00c4mter ab",
+      "text": "Gut zwei Monate nach der Vorstellung des M\u00fcnchner Missbrauchsgutachtens folgen personelle Konsequenzen: Der Kirchenrichter Lorenz Wolf will seine \u00c4mter aufgeben. Er war f\u00fcr seinen Umgang mit Missbrauchsf\u00e4llen kritisiert worden.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/tarifeinigung-luftsicherheitskraefte-101.html",
+      "headline": "Nach Warnstreiks an Flugh\u00e4fen Mehr Geld f\u00fcr Sicherheitspersonal",
+      "text": "Nach mehreren Warnstreiks mit massiven Flugausf\u00e4llen ist der Tarifkonflikt im privaten Sicherheitsgewerbe an Flugh\u00e4fen beigelegt. Laut Gewerkschaft ver.di wurde eine dreistufige Tariferh\u00f6hung vereinbart.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/konjunktur/immobilienpreise-113.html",
+      "headline": "Zinsen und Preise steigen Platzt die Immobilienblase?",
+      "text": "Die Bauzinsen steigen. Trotzdem verteuern sich Immobilien weiter. Experten sprechen schon l\u00e4nger von einer \u00dcberhitzung am Markt. Jetzt h\u00e4ufen sich Warnungen vor dem Platzen einer Immobilienblase. Wie realistisch ist das? Von Emal Atif.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/verbraucher/immobilienpreise-immobilienpreisindex-haeuserpreisindex-101.html",
+      "headline": "Hauspreise 2021 Wohnimmobilien verteuern sich schneller",
+      "text": "Die Preise f\u00fcr H\u00e4user und Wohnungen in Deutschland sind im vergangenen Jahr im Schnitt um elf Prozent gestiegen. Zum Jahresende kletterten die Preise im Rekordtempo - besonders in d\u00fcnn besiedelten Regionen.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/unternehmen/treibhausgase-emissionen-deutschland-klimawandel-101.html",
+      "headline": "Treibhausgase in Deutschland Ein Drittel aller Emissionen von nur 30 Firmen",
+      "text": "Ein Drittel aller in Deutschland ausgesto\u00dfenen Treibhausgase entfallen auf nur 30 Unternehmen. Die gr\u00f6\u00dften Emittenten sind einer Analyse zufolge die gro\u00dfen Energiekonzerne sowie die Auto- und Stahlindustrie.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/asien/afghanistan-taliban-frauen-rechte-101.html",
+      "headline": "Frauen-Proteste in Afghanistan \"Sie k\u00f6nnen uns nicht ausschlie\u00dfen\"",
+      "text": "Nach und nach verlieren Frauen in Afghanistan mehr Rechte und Freiheiten. Doch nicht alle wollen die Anordnungen der Taliban einfach so hinnehmen - und machen ihrer Wut auf der Stra\u00dfe Luft. Von Silke Diettrich.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/kultur/oscars-2022-103.html",
+      "headline": "94. Oscar-Verleihung Glanz, Glamour - und eine Ohrfeige",
+      "text": "Eigentlich gab es bei den Oscars f\u00fcr viele Grund zum Jubeln: f\u00fcr die Macher des besten Films \"Coda\", f\u00fcr zwei deutsche Oscar-Sieger und f\u00fcr Schauspieler Will Smith. Doch der sorgte mit einer Ohrfeige f\u00fcr den Eklat des Abends.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/inland/bka-straftaten-ukrainekrieg-101.html",
+      "headline": "Bundeskriminalamt Hunderte Straftaten mit Bezug zu Ukraine-Krieg",
+      "text": "Beleidigungen und Sachbesch\u00e4digung, aber auch k\u00f6rperliche Angriffe - die Polizei registriert in Deutschland Hunderte Straftaten gegen russisch- und ukrainisch-st\u00e4mmige Menschen. Hintergrund ist der Krieg in der Ukraine.",
+      "category": "Inland"
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/malta-wahl-labour-101.html",
+      "headline": "Labour-Wahlsieg auf Malta Corona-Management \u00fcbertrumpft Skandale",
+      "text": "Die Labour-Partei auf Malta k\u00e4mpft mit Korruptionsskandalen - und geht dennoch aus der Wahl als Sieger hervor. Denn bei der Bev\u00f6lkerung konnte sie vor allem mit ihrem Umgang mit der Corona-Krise punkten. Von J\u00f6rg Seisselberg.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/swr/kadyrow-russland-ukraine-101.html",
+      "headline": "Exklusiv",
+      "text": "Tschetschenen in der Ukraine Kadyrows Heiliger Krieg?\nIm Ukraine-Krieg will sich Tschetschenen-F\u00fchrer Kadyrow mit Kampftruppen als n\u00fctzlicher Helfer Putins inszenieren. Auff\u00e4llig ist, wie er mit islamischer Symbolik spielt. Doch was bezweckt er damit? Von Eric Beres.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/investigativ/ndr-wdr/russland-afd-oligarch-101.html",
+      "headline": "Exklusiv",
+      "text": "Russland und die AfD Einflussreich gegen Europa\nDie Kontakte von AfD-Politikern zu einem kremltreuen Oligarchen sind noch enger als bekannt. Dokumente, die WDR, NDR und SZ vorliegen, zeigen zudem eine enge Verzahnung\u00a0der europ\u00e4ischen Rechten mit der Propagandamaschine des Oligarchen.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ukraine-deutsche-firmen-krieg-101.html",
+      "headline": "Folgen f\u00fcr Wirtschaft Krieg bedroht ukrainische Boom-Branchen",
+      "text": "Auch weil es in der Ukraine so viele gut ausgebildete IT-Spezialisten gibt, haben deutsche Firmen in der Vergangenheit im Land investiert. Wie gehen sie nun mit dem Krieg um? Von Patrick Schneider.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-oelpreis-gold-ukraine-krieg-zinsen-101.html",
+      "headline": "Marktbericht",
+      "text": "Gewinne br\u00f6ckeln Wall Street macht nicht mit\nAm Nachmittag ging es am Aktienmarkt deutlich verhaltener zu. Angesichts ausbleibender Unterst\u00fctzung von der Wall Street konnte der DAX seine starken Gewinne nicht halten.",
+      "category": ""
+    },
+    {
+      "link": "https://www.tagesschau.de/ausland/taylor-hawkins-tot-101.html",
+      "headline": "US-Rockband Foo Fighters Schlagzeuger Taylor Hawkins ist tot",
+      "text": "Der Schlagzeuger der US-Rockband Foo Fighters, Taylor Hawkins, ist im Alter von 50 Jahren gestorben. Er war mit der Band auf Welttournee und wurde tot in einem Hotel in Kolumbien gefunden. Die Todesursache ist noch nicht bekannt. Von Marcus Schuler.",
+      "category": "Abroad"
+    },
+    {
+      "link": "https://wetter.tagesschau.de/deutschland/",
+      "headline": "Wettervorhersage",
+      "text": "In der Nacht f\u00e4llt im Norden und Nordosten \u00f6rtlich etwas Regen. In der Mitte und im S\u00fcden wird es von Westen her zwar zunehmend wolkig. Es bleibt aber meist trocken. Am Dienstag ist es \u00fcberwiegend stark bew\u00f6lkt, Auflockerungen gibt es bevorzugt in Alpenn\u00e4he und in Richtung der K\u00fcsten. Erst kommt es nur \u00f6rtlich zu Schauern, am Abend f\u00e4llt dann gebietsweise Regen. 7 bis 21 Grad.",
+      "category": ""
+    }
+  ]
+}

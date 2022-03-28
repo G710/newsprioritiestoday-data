@@ -1,0 +1,1068 @@
+{
+  "datetime": "2022-03-28 21:57:33.667597",
+  "source": {
+    "name": "Fox News",
+    "country": "USA",
+    "directory": "foxnews",
+    "url": "https://www.foxnews.com/",
+    "language": "en"
+  },
+  "articles": [
+    {
+      "link": "https://www.foxnews.com/world",
+      "headline": "SUSPECTED POISONING\nWorld\nDAY 33 LIVE UPDATES: Mysterious illness hits negotiators, Russian oligarch after meeting\nGen. Keane: Putin 'nowhere close' to making deal to end Ukraine war\nRep. McCaul: Biden causing 'international incidents' with off-script remarks",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/oscars-beatdown-will-smith-misdemeanor-assault-rap-smacking-chris-rock-face",
+      "headline": "\u2018THAT\u2019S HOW WE DO IT\u2019\nEntertainment\nWill Smith\u2019s son responds to dad\u2019s violent moment during Oscars\nWill Smith could face assault rap for smacking Chris Rock at Oscars\nAyanna Pressley tweets, then deletes, support for Will Smith slapping Chris Rock\nWill Smith, Chris Rock Oscars feud may have started in 2016",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media/cnn-analyst-blames-trump-aftermath-will-smith-chris-rock-oscars-incident",
+      "headline": "TERRIBLE TAKE\nMedia\nCNN analyst mocked for who she blames after Will Smith\u2019s slap attack\nComics condemn Will Smith slapping Chris Rock at Oscars: \u2018Pure out of control rage\u2019\nJon Voight defends Will Smith after slap heard round the world: 'He's a great man'\nLupita Nyongo's reaction to Will Smith slapping Chris Rock at Oscars goes viral",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "TEACHING THEM A LESSON\nPolitics\nDeSantis tears into Hollywood elites who support 'sexualizing kids'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "'MASS CASUALTY'\nU.S.\nPHOTOS: Race to save drivers trapped in fiery, deadly 20-vehicle pile-up",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/politics",
+      "headline": "Politics\nBiden proposes new minimum tax on billionaires, unrealized gains",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/politics/disney-has-been-outspoken-on-desantis-parental-rights-bill-but-silent-on-uyghur-genocide",
+      "headline": "Politics\nCHAIRMAN MICKEY MAO: Disney silent on literal genocide while aggressively opposing DeSantis bill",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/energy/natural-gas-large-part-of-solution-to-climate-goals-industry-leader-says",
+      "headline": "FOSSIL FUEL FALSEHOODS\nEnergy\nNatural gas industry expert clears up misconceptions about the energy source",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media/abc-cbs-nbc-ignore-hunter-biden-scandals-259-days",
+      "headline": "Media\nLiberal media networks ignore Hunter Biden scandals, haven\u2019t mentioned his name in 259 days, study says",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion",
+      "headline": "Opinion\nBiden's impulsive words continue to terrify instead of console us",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world",
+      "headline": "LURING RUSSIA\nWorld\nCrafty Ukrainians use 'defense traps' in hard-fought battle for the sky",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nJustice Thomas participates in arguments remotely after lengthy hospital stay",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nGOP Senate candidate calls for confirmation of Biden\u2019s Supreme Court nominee",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "BREAKING POINT\nU.S.\nHotel owner says forget curfews, calls for another crackdown to curb violence",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nIf Cuomo launches comeback for NY governor, poll suggests competitive primary with Hochul",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nProbe into Border Patrol agents still ongoing, 6 months after false 'whipping' claims...",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\n... as one governor makes them a tempting offer if disciplined",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world",
+      "headline": "World\nCanadian politician charged by Ottawa police over Freedom Convoy truckers\u2019 protest",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/oscar-ratings-academy-awards-2022",
+      "headline": "Entertainment\nOscar ratings continue to trail previous years but see an uptick for 2022 show",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\n'THE SAME GUY': Howard Stern compares Will Smith to Donald Trump",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/mickey-rourke-blacklisted-hollywood-catholic-faith",
+      "headline": "Entertainment\nMickey Rourke recalls being blacklisted in Hollywood, how a priest \u2018saved\u2019 him: \u2018You\u2019ve gotta be tough\u2019",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nMore than a dozen former Trump officials expected to participate in 'America First' summit next month",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion/school-district-wisconsin-parents-ian-prior",
+      "headline": "Opinion\nThis school district may be the worst violator of parental rights",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nConservative activist travels America cleaning up cities let down by 'failed' Democrat policies",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us/it-needs-to-be-shut-down-family-of-teen-who-fell-from-florida-amusement-park-ride",
+      "headline": "U.S.\nFamily of teen who died on amusement park ride want it closed permanently",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us/razzmatazz-robber-linked-4-arizona-holdups-including-3-banks",
+      "headline": "U.S.\n\u2018Razzmatazz Robber' linked to 4 holdups, including 3 banks",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nNYC shover was overcharged for death of famed voice coach: Legal experts",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nContributions exceed $12 million for FOX Corp's support of Red Cross in Ukraine",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "foxweather.com",
+      "headline": "WEATHER\nWATCH: FOX Weather premieres all-star lineup with live programming weekdays from 6a-10p ET",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/money",
+      "headline": "Money\nIRS to raise interest rates in April: What to know",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://nation.foxnews.com/watch/16726beb43e06015254cb57a620787c1?cmpid=org=NAT::ag=owned::mc=FNC_display::src=FNC_web::cmp=homepage::add=watch_platform_vd_creative&utm_source=FNC_display&utm_medium=FNC_web&utm_campaign=homepage&utm_content=watch_platform_vd_creative",
+      "headline": "WATCH NOW\nFrom a TV comedian to the President of Ukraine, he's become an international hero. Who Is Volodymyr Zelenskyy?",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics/russia-ukraine-humanitarian-aid-weeks-of-bombing-citizens",
+      "headline": "Russia touts aid for Ukrainian cities after weeks of bombing citizens",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics/biden-ukraine-russia-gaffes-peace-talks",
+      "headline": "Russia, Ukraine to resume in-person talks after Biden's overseas gaffes on troops in Ukraine, Putin's 'power'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world/ukraine-holocaust-survivors-germany",
+      "headline": "Ukraine Holocaust survivors flee to Germany for safety",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world/zelenskyy-representative-blames-budapest-memorandum-signatories-for-ukraines-war",
+      "headline": "Zelenskyy representative blames US, other Budapest Memorandum signatories for Ukraine's war",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world/china-very-slender-path-russia-invasion-ukraine",
+      "headline": "China is walking a 'very slender path' with Russia's invasion of Ukraine, expert says",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/personal-finance/retirees-home-insurance-costs-rising-florida",
+      "headline": "Retirees strained by higher home insurance rates in Florida: Here's how to cut costs",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/person/h/jody-hice",
+      "headline": "Time to hold unelected federal employees accountable for not doing their jobs\nBy\u00a0Jody Hice",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion/time-running-out-deter-china",
+      "headline": "Time is running out to deter China\nBy\u00a0Mike Garcia",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion/covid-cdc-bureaucrats-child-protective-services-andrew-brown",
+      "headline": "COVID exposed government overreach and Child Protective Services also deserves scrutiny\nBy\u00a0Andrew Brown",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle/single-dad-kidney-donation-stranger-social-media",
+      "headline": "Dad gets kidney from STRANGER",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/great-outdoors/florida-neighborhood-taken-over-bunnies",
+      "headline": "Bunnies OVERRUN neighborhood",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/amy-schumer-hair-pulling-disorder",
+      "headline": "Actress' 'big secret' REVEALED",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/whoopi-goldberg-demands-apology-british-royals-anti-slavery-prince-william-kate-middleton-tour",
+      "headline": "Whoopi DEMANDS apology from royals",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/paralyzed-ukrainian-model-oksana-kononets-fleeing-ukraine-russia-invasion",
+      "headline": "Paralyzed Ukrainian model recalls FLEEING",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/entertainment/hayden-panettiere-boyfriend-brian-hickerson-bar-fight-la-sunset-marquis-hotel",
+      "headline": "Star, BF involved in bar FIGHT",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto/nascar-reinvented-windshield-wiper-rain",
+      "headline": "Windshield wiper REINVENTED?",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle/boy-pens-letters-for-future-adopters-foster-dog",
+      "headline": "Boy's SWEET notes to dog adopters",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/great-outdoors/georgia-angler-catches-record-longnose-gar",
+      "headline": "Angler catches RECORD longnose gar",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/great-outdoors/500-pound-bear-removed-tennessee-college-damage",
+      "headline": "HUGE bear moved from college",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto/how-much-2023-chevrolet-corvette-stingray-costs",
+      "headline": "2023 Corvette costs HOW MUCH?",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/opinion/rooftop-revelations-3-billion-company-returns-to-chicago-roots-to-support-pastor-brooks",
+      "headline": "Opinion\nRooftop Revelations: A $3 billion company returns to its Chicago roots to support Pastor Brooks",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/world/zelenskyy-representative-blames-budapest-memorandum-signatories-for-ukraines-war",
+      "headline": "World\nZelenskyy representative blames US, other Budapest Memorandum signatories for Ukraine's war",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nActivists march through DC demanding Biden declare a climate emergency",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nUniversity announces first-ever masters degree in 'Happiness Studies,' will cost students $17,700",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nBiden admin operated with missing data as CDC issued pandemic guidance, emails show",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/lifestyle",
+      "headline": "Lifestyle\nPet costs 2022: New report breaks down our spending habits",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxbusiness.com/politics/disney-florida-ron-desantis-parental-rights-in-education",
+      "headline": "Politics\nDisney slams Florida's Parental Rights in Education bill after DeSantis signs off",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxbusiness.com/economy/ridiculously-high-gas-prices-impacting-bottom-line-ga-food-truck-owner",
+      "headline": "Economy\nRidiculously high gas prices crushing GA food truck business",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/personal-finance",
+      "headline": "Personal Finance\nNew mortgage payments jump 8% in February amid soaring rates, home prices: MBA",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/personal-finance",
+      "headline": "Personal Finance\nPersonal loan rates creep up, but still lower than same time last year",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nPandemic Politics: GOP urges Dems to use unspent money from American Rescue Plan for COVID-19 funding",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/media/ny-times-editorial-board-warns-pretending-pandemic-over-reckless-reduce-efforts",
+      "headline": "Media\nNY Times editorial board warns of 'pretending the pandemic is over,' would be 'reckless' to reduce efforts",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nFDNY union president blasts Mayor Eric Adams' vaccine mandate 'double standard' for first responders",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/world/china-implementing-phased-lockdown-of-shanghai-over-covid-19-surge",
+      "headline": "World\nChina implementing phased lockdown of Shanghai over COVID-19 surge",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nWhite House principal deputy press secretary tests positive for COVID-19 after returning from Europe trip",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/media/lia-thomas-is-not-your-champion",
+      "headline": "Media\nLia Thomas is not your champion: Will Cain",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nWife of Border Patrol agent rips Biden for 'offensive' comparison of US border crisis to Ukraine",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nRep. McCaul says Biden causing 'international incidents' with off-script remarks",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nMarc Thiessen: Biden\u2019s walkback of Putin comment 'made America look weak'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/media",
+      "headline": "Media\nGen. Keane on 'America's Newsroom': Putin 'nowhere close' to making deal to end Ukraine war",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nRepublicans introduce bill requiring DOJ to disclose info on felony pre-trial releases",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nGov. Abbott offers border agents accused of whipping migrants jobs in Texas if disciplined",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nIf Cuomo launches comeback for NY governor, poll suggests competitive primary with Hochul",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nFederal judge says Trump 'likely' violated federal obstruction statute",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nScalise says there has 'never been a better time to run on a conservative agenda'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/us/chicago-crime-murder-shooting-wrigley-field",
+      "headline": "U.S.\nChicago man shot dead just blocks from Wrigley Field among 4 weekend murder victims",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nFamily of teen who died on Florida's ICON Park ride want it closed permanently",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nPennsylvania snow squall reportedly causes massive, fiery car crash involving dozens of vehicles",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\n\u2018Razzmatazz Robber' linked to 4 Arizona holdups, including 3 banks: Police",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nNYPD seek suspect who assaulted 73-year-old man in attempted robbery",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world",
+      "headline": "World\nGermany: G7 rejects Russia\u2019s demand to pay for gas in rubles",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/world/taliban-hard-liners-turning-back-the-clock-in-afghanistan",
+      "headline": "World\nTaliban hard-liners turning back the clock in Afghanistan",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/world",
+      "headline": "World\nRussian oligarch, Ukraine peacekeepers suffer suspected poisoning after Kyiv meeting: Report",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/world/canada-politician-new-charges-ottawa-police-freedom-convoy",
+      "headline": "World\nCanadian politician charged by Ottawa police over Freedom Convoy truckers\u2019 protest",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/world/two-israelis-killed-shooting-attack-israel-u-s-mideast-summit",
+      "headline": "World\nShooting in Israel kills 2 police officers amid historic US-Mideast summit",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nWomen's History Month: Celebrating women in American history",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nUS nonprofit ships medical supplies to Ukraine but faces logistics complications",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nPremature babies in Ukraine rescued via ambulance escort during Kyiv shelling",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nUkrainian youth groups and schools hold prayer vigils, peace rallies in response to war",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/lifestyle/girl-makes-chemo-comfort-bags-cancer-patients-honor-grandfather",
+      "headline": "Lifestyle\n10-year-old makes chemo comfort bags for patients after seeing grandfather fight cancer",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion",
+      "headline": "Opinion\nBiden's impulsive words continue to terrify instead of console us",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/opinion/rooftop-revelations-3-billion-company-returns-to-chicago-roots-to-support-pastor-brooks",
+      "headline": "Opinion\nRooftop Revelations: A $3 billion company returns to its Chicago roots to support Pastor Brooks",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion",
+      "headline": "Opinion\nVisiting Poland, Ukraine border: Russian invasion inspiring acts of compassion, courage",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion",
+      "headline": "Opinion\nBiden's reckless words, Ukraine missteps raise risks for US",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/opinion",
+      "headline": "Opinion\nThis school district might be the worst violator of parental rights",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/auto/texas-teen-gifted-new-chevrolet-pickup-tornado-wrecked",
+      "headline": "Cars + Trucks\nTexas teen gifted new Chevrolet pickup after tornado wrecked his",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/media/conservative-activist-scott-presler-clean-liberal-cities-failed-democrat-policies",
+      "headline": "Media\nConservative activist travels America cleaning up cities let down by 'failed' Democrat policies",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/lifestyle/ny-man-biking-us-alabama-rich-history-shivers",
+      "headline": "Lifestyle\nNew York man biking across US 'literally feels' Alabama's rich history: 'You get the shivers'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nUS Capitol reopening to public with limited tours after COVID-19 closure",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nUkraine war widows providing aid on the front lines",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nNY woman reveals life with a sister's schizophrenia, writes 'love letter' to her",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nHearst Castle, national landmark in California, gets reopening date after 2-year closure",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/travel/slope-side-suite-peak-spring-skiing-dreams",
+      "headline": "Travel\nThis slope-side suite in Utah is the peak of your spring skiing dreams",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nWilliam Lee Golden on 'Peaceful Easy Feeling': 'Always enjoyed this song in my family'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nUS Capitol reopening to public with limited tours after COVID-19 closure",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/oscar-ratings-academy-awards-2022",
+      "headline": "Entertainment\nOscar ratings continue to trail previous years but see an uptick for 2022 show",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/chris-rock-praised-will-smith-slap-oscars-professionalism",
+      "headline": "Entertainment\nChris Rock praised for not hitting Will Smith back after Oscar slap: \u2018We need to applaud his professionalism'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/oscars-beatdown-will-smith-misdemeanor-assault-rap-smacking-chris-rock-face",
+      "headline": "Entertainment\nWill Smith could face assault rap for smacking Chris Rock at Oscars",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/lupita-nyongo-reaction-will-smith-viral",
+      "headline": "Entertainment\nLupita Nyongo's reaction to Will Smith slapping Chris Rock at Oscars goes viral",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/will-smith-son-reacts-slap-oscars",
+      "headline": "Entertainment\nWill Smith's son reacts to Chris Rock slap over Jada Pinkett Smith: 'And That's How We Do It'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/sports",
+      "headline": "Sports\nNFL works to modify overtime rules, but there are obstacles",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/sports",
+      "headline": "Sports\nOzzie Guillen rips idea of 'robot umpires' in MLB",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/sports",
+      "headline": "Sports\nSeton Hall has eyes on Shaheen Holloway after Saint Peter's run: report",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/sports",
+      "headline": "Sports\nMatt Ryan explains Falcons exit, says Colts were first option he explored",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/sports",
+      "headline": "Sports\nNFL exec blasts Deshaun Watson's new contract with Browns",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/lifestyle",
+      "headline": "Lifestyle\nPet costs 2022: New report breaks down our spending habits",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/personal-finance",
+      "headline": "Personal Finance\nNew mortgage payments jump 8% in February amid soaring rates, home prices: MBA",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/personal-finance",
+      "headline": "Personal Finance\nPersonal loan rates creep up, but still lower than same time last year",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/lifestyle",
+      "headline": "Lifestyle\nRussia-Ukraine war: Maine retail association creates statewide relief program to send aid to Europe",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxbusiness.com/category/personal-finance",
+      "headline": "Personal Finance\nRetirees strained by higher home insurance rates in Florida: Here's how to cut costs",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/tech",
+      "headline": "Tech\nThe real way Facebook knows so much about you (and how to stop it)",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/tech/10-handy-gadgets-worth-buying",
+      "headline": "Tech\nTech you didn\u2019t know you needed \u2014 10 handy gadgets worth buying",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/tech/tech-how-use-voice-control-your-tv",
+      "headline": "Tech\nTech how-to: Use your voice to control your TV",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/tech/7-tech-gems-make-life-easier-save-time",
+      "headline": "Tech\n7 tech gems that make life easier and save you time",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/tech/iphone-android-user-know-commands",
+      "headline": "Tech\nEvery iPhone and Android user should know these genius commands",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nNY woman reveals life with a sister's schizophrenia, writes 'love letter' to her",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/mickey-rourke-blacklisted-hollywood-catholic-faith",
+      "headline": "Entertainment\nMickey Rourke recalls being blacklisted in Hollywood, how a priest \u2018saved\u2019 him: \u2018You\u2019ve gotta be tough\u2019",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nFourth Sunday of Lent: Amid 'tragedy' of hopelessness today, still a reason to rejoice",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nSpring cleaning for the soul: How one baseball wife found a way to win",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/lifestyle/tim-tebow-humanitarian-work-crises-fighting",
+      "headline": "Lifestyle\nTim Tebow's vital humanitarian work amid crises: 'We've got to keep fighting'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto",
+      "headline": "Cars + Trucks\nNASCAR has reinvented the windshield wiper ... but not for rain",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto",
+      "headline": "Cars + Trucks\nHertz accidentally confirms new mystery Tesla Model Y is coming soon",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto",
+      "headline": "Cars + Trucks\nTexas teen gifted new Chevrolet pickup after tornado wrecked his",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto",
+      "headline": "Cars + Trucks\nNASCAR: Chastain gets Pitbull's Trackhouse Racing first win in Texas",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/auto",
+      "headline": "Cars + Trucks\nVerstappen passes LeClerc late to win Formula one Saudi Arabian Grand Prix",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/great-outdoors",
+      "headline": "Great Outdoors\nMississippi considers alligator hunt due to rising population",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\nLivestream shows 12-year-old girl fatally shooting cousin and herself",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/us/chicago-mall-shooting-police",
+      "headline": "U.S.\nChicago-area mall shooting leaves 1 dead, 2 others injured, police say",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/great-outdoors",
+      "headline": "Great Outdoors\nGeorgia angler catches record longnose gar",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/lifestyle/ny-man-biking-us-alabama-rich-history-shivers",
+      "headline": "Lifestyle\nNew York man biking across US 'literally feels' Alabama's rich history: 'You get the shivers'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/food-drink/worst-cooking-oils-health-experts",
+      "headline": "Food & Drink\nThese are the worst cooking oils for your health, experts say",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/food-drink",
+      "headline": "Food & Drink\nSlow-cooker Irish soda bread is the easiest recipe for St. Patrick's Day",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/food-drink/french-restaurant-threatened-patrons-poutine-putin",
+      "headline": "Food & Drink\nFrench restaurant claims it was threatened by patrons who thought poutine was named after Putin",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/food-drink/worst-frozen-foods-health",
+      "headline": "Food & Drink\nThese are the worst frozen foods for your health, experts say",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/food-drink/canadian-diner-removes-poutine-name-sounds-putin",
+      "headline": "Food & Drink\nCanadian diner removes poutine from name because it sounds like Putin",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nThe best vegetables for your health, according to nutritionists",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nThe best foods for a good night's sleep",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/health",
+      "headline": "Health\nStrength training 30-60 minutes a week could be linked to longer life: study",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nVirginia couple married for 30 years claim they've never argued",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/lifestyle/couple-loses-more-200-pounds-combined",
+      "headline": "Lifestyle\nMinnesota couple loses more than 200 pounds combined: 'It\u2019s energizing, it\u2019s together'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/paralyzed-ukrainian-model-oksana-kononets-fleeing-ukraine-russia-invasion",
+      "headline": "Entertainment\nParalyzed Ukrainian model Oksana Kononets recalls fleeing from Russian invasion: 'When will this end?'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/health",
+      "headline": "Health\nBella Hadid speaks out about the perils of plastic surgery in teenagers",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/sports-illustrated-swimsuit-model-nina-agdal-poses-completely-nude-instagram",
+      "headline": "Entertainment\nSports Illustrated Swimsuit model Nina Agdal poses completely nude on Instagram: \u2018When you got it\u2026 flaunt it!\u2019",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nUkrainians turn to patriotic tattoos during the Russia-Ukraine war",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nWorld Down Syndrome Day: How 'eye-catching' socks became a tradition",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/health/ukraine-war-kyiv-transforms-surgical-hospital-battleground-medical-facility",
+      "headline": "Health\nUkraine war: Kyiv transforms surgical hospital into battleground medical facility",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/health",
+      "headline": "Health\nWhat is alopecia? Jada Pinkett Smith joke sparks interest in the autoimmune disorder",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/health",
+      "headline": "Health\nLong COVID symptoms may depend on the variant a person contracted",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/health",
+      "headline": "Health\nBiden administration to offer COVID-19 boosters to older Americans: report",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/health",
+      "headline": "Health\nIs it COVID-19, allergies, or post-vaccine symptoms? How to tell the difference",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxweather.com/weather-news/snow-squall-multi-vehicle-crash-interstate-81-pennsylvania",
+      "headline": "WEATHER NEWS\nSnow squall triggers 40-vehicle crash on Interstate 81 in Pennsylvania",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxweather.com/weather-news/severe-thunderstorms-tornadoes-storm-ravaged-south-plains-mississippi-valley-mid-atlantic",
+      "headline": "WEATHER NEWS\nSevere thunderstorms, including tornadoes, will return to storm-ravaged South late Tuesday through Wednesday",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxweather.com/weather-news/snow-ice-northern-plains-great-lakes-severe-threat-stays-south",
+      "headline": "WEATHER NEWS\nSnow, ice expected in Northern Plains, Great Lakes while severe threat stays south",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxweather.com/weather-news/heavy-rain-expected-california",
+      "headline": "WEATHER NEWS\nRain raises concerns for flash flooding in California on Monday",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxweather.com/weather-news/winterlike-chill-ends-march-eastern-us",
+      "headline": "WEATHER NEWS\nRecord-cold start to week in Northeast as temperatures plunge 15 to 30 degrees below average",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nDog that knows 40 commands gets job at Florida children's hospital",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nSingle dad receives kidney donation from total stranger who replied on social media",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nWant to know what happiness is? Pastor Greg Laurie shares one key secret",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nWoman finds lost stuffed bunny and wants to locate its owner: 'Looks like it was pretty loved'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/lifestyle",
+      "headline": "Lifestyle\nOhio podcaster, nearly 80, shares hope, love, laughter: 'This day is the only thing I have'",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nRepublicans introduce bill requiring DOJ to disclose info on felony pre-trial releases",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/us/chicago-crime-murder-shooting-wrigley-field",
+      "headline": "U.S.\nChicago man shot dead just blocks from Wrigley Field among 4 weekend murder victims",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "//www.foxnews.com/entertainment/oscars-beatdown-will-smith-misdemeanor-assault-rap-smacking-chris-rock-face",
+      "headline": "Entertainment\nWill Smith could face assault rap for smacking Chris Rock at Oscars",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/politics",
+      "headline": "Politics\nBiden's $5.8T budget proposes one of the 'largest' investments in US national security amid war in Ukraine",
+      "text": "",
+      "category": ""
+    },
+    {
+      "link": "https://www.foxnews.com/us",
+      "headline": "U.S.\n\u2018Razzmatazz Robber' linked to 4 Arizona holdups, including 3 banks: Police",
+      "text": "",
+      "category": ""
+    }
+  ]
+}
